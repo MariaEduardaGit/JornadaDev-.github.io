@@ -3,8 +3,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    list-style-type: style neno;;
-    font-family:serif
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
 }
 
 .resume-contents {
@@ -79,20 +79,22 @@
     color: #eeeeee;
 }
 
+
 .skills ul p {
     padding-top: 1.9rem;
 }
 
 .skills ul li p {
     padding: .4rem 0;
-    color: #fbf7f7;
-}
+    color: #fbf7
+    }
 
 .right-section-contents {
     padding: 2rem 2rem;
 }
 
 .right-title {
+
     color: #fff0f0;
     font-size: 18px;
 }

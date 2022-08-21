@@ -27,7 +27,7 @@
     border-radius: 0px 60px 0px 0px;
 }
 
-.left-section-contents {
+.left-section-contents{
     padding: 2rem 2rem;
 }
 
@@ -57,7 +57,7 @@
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #eeeeee;
+    color: #ffffff;
     font-size: 20px;
 }
 
@@ -78,21 +78,24 @@
     color: #eeeeee;
 }
 
+
 .skills ul {
     padding-top: 1.5rem;
 }
 
 .skills ul li p {
     padding: .4rem 0;
-    color: #eeeeee;
-}
+    color: #fbf7
+    }
+
 
 .right-section-contents {
     padding: 2rem 2rem;
 }
 
 .right-title {
-    color: #eeeeee;
+    color: #fff0f0;
+    font-size: 18px;
 }
 
 .gap {
@@ -100,13 +103,13 @@
 }
 
 .about-me-contents {
-    font-size: 18px;
+    font-size: 16px;
     color: #eeeeee;
 }
 
 .experience-contents,
 .education-contents,
-.awards-contents {
+.awards-contents{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;

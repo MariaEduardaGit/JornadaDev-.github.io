@@ -48,7 +48,7 @@ body {
 
 .name {
     color: #D6DBDF;
-    font-size: 30px;
+    font-size: 31px;
     letter-spacing: 2px;
     text-transform: uppercase;
     text-align: center;
@@ -76,6 +76,7 @@ body {
     display: flex;
     align-items: center;
     padding-top: 3rem;
+    margin-left: 25px;
 }
 
 .contact-info ul {
@@ -97,10 +98,12 @@ body {
     padding-right: 1rem;
     font-size: 18px;
     color: #ffffff;
+    margin-left: 25px;
 }
 
 .skills ul {
     padding-top: 1.5rem;
+    
 }
 
 .skills ul li p {
@@ -111,6 +114,7 @@ body {
     display: flex;
     align-items: center;
     text-transform: uppercase;
+    margin-left: 25px;
 }
 
 .referance-name {
@@ -156,7 +160,7 @@ body {
     font-size: 18px;
     letter-spacing: 1px;
     line-height: 2rem;
-    color: #F1F8FD;
+    color: #ffffff;
 }
 
 .experience-contents,
